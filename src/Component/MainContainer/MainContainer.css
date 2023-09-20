@@ -1,0 +1,11 @@
+.for-side-container {
+  border-radius: 8px;
+  background: rgba(17, 17, 17, 0.05);
+}
+
+.time-div {
+  border-radius: 8px;
+  border: 1px solid #6047ec;
+  background: rgba(96, 71, 236, 0.1);
+  padding: 22px 50px;
+}
