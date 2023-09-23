@@ -4,31 +4,31 @@
     "name": "John Doe",
     "title": "How to get your first job as a self-taught programmer",
     "time": "05",
-    "img": "../knowledge-cafe/images/1.jpg",
-    "icon": "../knowledge-cafe/images/boy1.png"
+    "img": "/knowledge-cafe/images/1.jpg",
+    "icon": "/knowledge-cafe/images/boy1.png"
   },
   {
     "id": 2,
     "name": "Jane Smith",
     "title": "From where you get your first job",
     "time": "10",
-    "img": "../knowledge-cafe/images/2.png",
-    "icon": "../knowledge-cafe/images/boy2.png"
+    "img": "/knowledge-cafe/images/2.png",
+    "icon": "/knowledge-cafe/images/boy2.png"
   },
   {
     "id": 3,
     "name": "Bob Johnson",
     "title": "Which type of work do you need",
     "time": "12",
-    "img": "../knowledge-cafe/images/3.png",
-    "icon": "../knowledge-cafe/images/girl1.jpg"
+    "img": "/knowledge-cafe/images/3.png",
+    "icon": "/knowledge-cafe/images/girl1.jpg"
   },
   {
     "id": 4,
     "name": "Bob Johnson",
     "title": "Which field you need to as your job",
     "time": "15",
-    "img": "../knowledge-cafe/images/4.jpg",
-    "icon": "../knowledge-cafe/images/girl2.jpg"
+    "img": "/knowledge-cafe/images/4.jpg",
+    "icon": "/knowledge-cafe/images/girl2.jpg"
   }
 ]
